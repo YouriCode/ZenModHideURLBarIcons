@@ -4,6 +4,9 @@ Want to click your URL bar but surprise buttons appear at the last moment?
 
 This mod allows you to **hide the buttons in the URL bar**, especially the ones that appear on hover! No more frustration.
 
+![image](https://github.com/user-attachments/assets/6f11ef6d-a35d-4c4b-b4df-6da0a2cc6c33)
+
+
 ## Setup
 
 Set the buttons you want to show or hide via *Settings > Zen Mods*.
