@@ -1,4 +1,4 @@
-/* PAGE ACTION BUTTONS */
+@-moz-document url-prefix("chrome:") {
 
 @media (-moz-bool-pref: "mod.urlbar-icons.bookmark.disable") {
     #star-button-box {display: none;}
@@ -33,4 +33,5 @@
     #tracking-protection-icon-container {display: none;}
   }
   
+}
   
